@@ -60,4 +60,4 @@ def demo(question):
     
     return response
 
-print(generate_hw01("2025年台灣1月紀念日有哪些？"))
+#print(generate_hw01("2025年台灣1月紀念日有哪些？"))
